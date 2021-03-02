@@ -1,6 +1,6 @@
 # gibberish.lib
 
-Simple encoding/decoding library for .net 5
+Simple encoding/decoding library for .net 5 using the RFC 2898 - PKCS #5: Password-Based Cryptography Specification v2.0 <http://www.faqs.org/rfcs/rfc2898.html>
 
 ## Usage
 
